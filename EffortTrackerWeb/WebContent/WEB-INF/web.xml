@@ -19,7 +19,7 @@
 	
 	<servlet-mapping>
 		<servlet-name>dispatcherServlet</servlet-name>
-		<url-pattern>/add</url-pattern>
+		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 	
 	
